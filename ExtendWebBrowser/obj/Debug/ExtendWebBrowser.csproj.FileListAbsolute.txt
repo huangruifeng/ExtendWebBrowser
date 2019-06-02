@@ -1,14 +1,1 @@
 F:\vs2015\ExtendWebBrowser\ExtendWebBrowser\bin\Debug\ExtendWebBrowser.exe.config
-F:\vs2015\ExtendWebBrowser\ExtendWebBrowser\bin\Debug\ExtendWebBrowser.exe
-F:\vs2015\ExtendWebBrowser\ExtendWebBrowser\bin\Debug\ExtendWebBrowser.pdb
-F:\vs2015\ExtendWebBrowser\ExtendWebBrowser\obj\Debug\MainWindow.g.cs
-F:\vs2015\ExtendWebBrowser\ExtendWebBrowser\obj\Debug\App.g.cs
-F:\vs2015\ExtendWebBrowser\ExtendWebBrowser\obj\Debug\GeneratedInternalTypeHelper.g.cs
-F:\vs2015\ExtendWebBrowser\ExtendWebBrowser\obj\Debug\ExtendWebBrowser_MarkupCompile.cache
-F:\vs2015\ExtendWebBrowser\ExtendWebBrowser\obj\Debug\ExtendWebBrowser_MarkupCompile.lref
-F:\vs2015\ExtendWebBrowser\ExtendWebBrowser\obj\Debug\MainWindow.baml
-F:\vs2015\ExtendWebBrowser\ExtendWebBrowser\obj\Debug\ExtendWebBrowser.g.resources
-F:\vs2015\ExtendWebBrowser\ExtendWebBrowser\obj\Debug\ExtendWebBrowser.Properties.Resources.resources
-F:\vs2015\ExtendWebBrowser\ExtendWebBrowser\obj\Debug\ExtendWebBrowser.csproj.GenerateResource.Cache
-F:\vs2015\ExtendWebBrowser\ExtendWebBrowser\obj\Debug\ExtendWebBrowser.exe
-F:\vs2015\ExtendWebBrowser\ExtendWebBrowser\obj\Debug\ExtendWebBrowser.pdb
