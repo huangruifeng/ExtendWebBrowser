@@ -1,6 +1,6 @@
 # ExtendWebBrowser
 extend winform webbrowser control
-
+项目描述请看https://blog.csdn.net/wodeshijianhrf/article/details/90746142
 ## 在wpf项目中使用
 - 需要项目引用两个dll WindowsFormsIntegration.dll，System.Windows.Forms.dll
 - 在xmal中使用扩展的控件需要加 
